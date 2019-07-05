@@ -1,2 +1,2 @@
 # invoice_handler
-Downloads and converts emailed pdf Creation Gardens invoices from a gmail account to csv
+Project designed to download PDF invoices from a designated email address, convert said PDFs to csv format, process the data, and add it to a sqlite3 data base. Using tabula-py to process the pdf. 
