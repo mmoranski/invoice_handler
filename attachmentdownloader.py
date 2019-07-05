@@ -12,7 +12,7 @@ import os
 import email
 
 
-
+# Email account invoices sent to. Can Be changed to getpass.getpass('Email Account: ') 
 EMAIL_ACCOUNT = 'invoiceprocessdump@gmail.com'
 
 
